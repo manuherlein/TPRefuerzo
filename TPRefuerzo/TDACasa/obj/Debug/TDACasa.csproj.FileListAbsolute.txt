@@ -1,0 +1,6 @@
+C:\Users\Manuel\Desktop\UADE MANUEL\Programacion 2\TPRefuerzo\TDACasa\bin\Debug\TDACasa.exe.config
+C:\Users\Manuel\Desktop\UADE MANUEL\Programacion 2\TPRefuerzo\TDACasa\bin\Debug\TDACasa.exe
+C:\Users\Manuel\Desktop\UADE MANUEL\Programacion 2\TPRefuerzo\TDACasa\bin\Debug\TDACasa.pdb
+C:\Users\Manuel\Desktop\UADE MANUEL\Programacion 2\TPRefuerzo\TDACasa\obj\Debug\TDACasa.csprojResolveAssemblyReference.cache
+C:\Users\Manuel\Desktop\UADE MANUEL\Programacion 2\TPRefuerzo\TDACasa\obj\Debug\TDACasa.exe
+C:\Users\Manuel\Desktop\UADE MANUEL\Programacion 2\TPRefuerzo\TDACasa\obj\Debug\TDACasa.pdb
